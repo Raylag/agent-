@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+E:\agent\LW_A_3\ConsoleApplication1\ConsoleApplication1.cpp(114,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\agent\LW_A_3\ConsoleApplication1\ConsoleApplication1.cpp(213,88): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+E:\agent\LW_A_3\ConsoleApplication1\ConsoleApplication1.cpp(213,88): warning C4267:         with
+E:\agent\LW_A_3\ConsoleApplication1\ConsoleApplication1.cpp(213,88): warning C4267:         [
+E:\agent\LW_A_3\ConsoleApplication1\ConsoleApplication1.cpp(213,88): warning C4267:             _Ty=int
+E:\agent\LW_A_3\ConsoleApplication1\ConsoleApplication1.cpp(213,88): warning C4267:         ]
+  ConsoleApplication1.vcxproj -> E:\agent\LW_A_3\x64\Debug\ConsoleApplication1.exe
